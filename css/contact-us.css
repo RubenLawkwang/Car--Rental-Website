@@ -1,0 +1,81 @@
+
+/*style the wrapper and h1 */
+#wrapper {
+  width: 80%;
+  margin: 0 auto;
+  background-color: #D8D8D8;
+  color: ;
+  padding: 20px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+/* style for labels */
+label {
+  width: 20%;
+  font-weight: bold;
+  padding: 3px;
+}
+
+main h1 {
+  text-align: center;
+}
+
+/* Style the input container */
+.input-container {
+  display: flex;
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+/* Style the form icons */
+.icon {
+  padding: 10px;
+  background: blue;
+  color: white;
+  min-width: 50px;
+  text-align: center;
+}
+
+/* Style the input fields */
+.input-field {
+  width: 100%;
+  padding: 10px;
+  outline: none;
+}
+
+.input-field:focus {
+  outline: 2px solid #B30000;
+}
+
+fieldset {
+  margin-bottom: 10px;
+}
+
+/* Set a style for the submit button */
+.btns {
+  background-color: #B30000;
+  color: white;
+  padding: 15px 20px;
+  border: none;
+  cursor: pointer;
+  width: 60%;
+  opacity: 0.8;
+  margin-top: 3px;
+  height: 80px;
+  margin: 0 auto;
+}
+
+.btns:hover {
+  opacity: 1;
+}
+
+.c-us {
+  margin: 0 auto;
+  color: #DA9C00;
+  text-shadow: 2px 2px 40px black;
+  margin-top: 100px;
+  font-family: 'Black Ops One', cursive;
+
+
+}

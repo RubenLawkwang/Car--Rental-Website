@@ -1,0 +1,64 @@
+.mt {
+  text-align: center;
+  color: #FF5F1F;
+  text-shadow: 2px 2px  40px black;
+  font-family: 'Black Ops One', cursive;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.cardetails-pass {
+  margin: 0 auto;
+  text-align: center;
+  background-color: #EDF5E1;
+  width: 80%;
+  margin-top: 100px;
+}
+
+.detail1 {
+  width: 400px;
+  height: 300px;
+  margin-left: 5%;
+  margin-top: 50px;
+  display: inline-block;
+}
+
+.para {
+  text-align: center;
+  font-size: 20px;
+  margin-bottom: 60px;
+  margin-top: 30px;
+  padding-bottom: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.cardetails-pass2 {
+  margin: 0 auto;
+  text-align: center;
+  background-color: #EDF5E1;
+  width: 80%;
+  margin-top: 100px;
+}
+
+.cardetails-pass3 {
+  margin: 0 auto;
+  text-align: center;
+  background-color: #EDF5E1;
+  width: 80%;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+#m-1{
+  margin-top: 50px;
+  padding-top: 50px;
+}
+
+.cross-title {
+  padding-top: 50px;
+}
+
+.exclusive-title {
+  padding-top: 50px;
+}

@@ -1,0 +1,74 @@
+.gallery {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  background: white;
+}
+
+.gallery-pic {
+  width: 400px;
+  height: 400px;
+  display: inline-block;
+  font-weight: bold;
+  margin-left: 5%;
+  margin-top: 30px;
+}
+
+.assin {
+  text-align: center;
+  font-size: 20px;
+  margin-top: 100px;
+  margin-bottom: 195px;
+  color: #DA9C00;
+  font-family: 'Black Ops One', cursive;
+  text-shadow: 2px 2px 40px black;
+}
+
+.passtitle {
+  margin-top: 100px;
+  margin-bottom: 50px;
+  word-spacing: 5px;
+  padding-top: 50px;
+}
+
+.gallery2 {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 50px;
+  height: auto;
+  background: white;
+}
+
+.suvtitle {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  word-spacing: 5px;
+  padding-top: 50px;
+}
+
+.gallery3 {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 50px;
+  height: auto;
+  background: white;
+  margin-bottom: 50px;
+}
+
+.exclutitle {
+  text-align: center;
+  text-transform: capitalize;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  word-spacing: 5px;
+  padding-top: 50px;
+}
+
+.gallery-pic:hover img{
+  transform: rotate(360deg);
+  width: 400px;
+  height: 300px;
+  transition: width 2s, height 2s, transform 2s;
+}
